@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpic.Connect.WebApi", "Dpic.Connect.WebApi\Dpic.Connect.WebApi.csproj", "{56165A79-282D-42BF-9151-C552053C49A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpic.Connect.SharedDefinitions", "Dpic.Connect.SharedDefinitions\Dpic.Connect.SharedDefinitions.csproj", "{FEE45B3D-D503-4623-8D23-951FAAD2E3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpic.Connect.ServiceAccess", "Dpic.Connect.ServiceAccess\Dpic.Connect.ServiceAccess.csproj", "{BD1248CE-5866-4CB6-963D-400E25734FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpic.Connect.Services", "Dpic.Connect.Services\Dpic.Connect.Services.csproj", "{52916723-72A5-4960-A65D-A239FCB054F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dpic.Connect.Client", "Dpic.Connect.Client\Dpic.Connect.Client.csproj", "{43A49EE8-A60B-4481-A141-C880D6B19129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56165A79-282D-42BF-9151-C552053C49A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56165A79-282D-42BF-9151-C552053C49A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56165A79-282D-42BF-9151-C552053C49A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56165A79-282D-42BF-9151-C552053C49A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE45B3D-D503-4623-8D23-951FAAD2E3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE45B3D-D503-4623-8D23-951FAAD2E3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE45B3D-D503-4623-8D23-951FAAD2E3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE45B3D-D503-4623-8D23-951FAAD2E3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1248CE-5866-4CB6-963D-400E25734FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1248CE-5866-4CB6-963D-400E25734FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1248CE-5866-4CB6-963D-400E25734FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1248CE-5866-4CB6-963D-400E25734FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52916723-72A5-4960-A65D-A239FCB054F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52916723-72A5-4960-A65D-A239FCB054F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52916723-72A5-4960-A65D-A239FCB054F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52916723-72A5-4960-A65D-A239FCB054F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A49EE8-A60B-4481-A141-C880D6B19129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A49EE8-A60B-4481-A141-C880D6B19129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A49EE8-A60B-4481-A141-C880D6B19129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A49EE8-A60B-4481-A141-C880D6B19129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6311ED37-FD75-4AFB-A423-650C5B10F74E}
+	EndGlobalSection
+EndGlobal
